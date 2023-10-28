@@ -1,0 +1,3 @@
+1
+
+**25515**: a. On a ici une translation de vecteur OA , suivi d' une rotation de centre A et d' angle orienté de mesure Figure 3.11 Système de coordonnées adapté à une droite du plan On voit que l' on aurait ***eu*** intérêt à prendre u de norme 1 , en ce cas , en prenant , si H est la projection de O sur la droite , si p d(O , H ) et si est la mesure de l' angle e , OH ) lorsque O 6 H ( si O H , on impose 2 , 2 ) , alors la droite a une équation dite normalisée : Voir la figure 3.12 , de la présente page
